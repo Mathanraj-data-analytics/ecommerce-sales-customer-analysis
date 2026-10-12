@@ -48,7 +48,22 @@ Data Analyst Project/
 - **Total Revenue:** £10,642,110.80
 - **Top Revenue Country:** United Kingdom
 - **Analysis Tools:** Python, MySQL, and Power BI
+- 
+## SQL Analysis Findings
 
+- **Total Revenue:** £10,642,110.80 across the cleaned transactions.
+- **Top Revenue Country:** United Kingdom, contributing approximately 84.59% of total revenue.
+- **Country Analysis:** The Netherlands and EIRE were the next largest contributors by revenue.
+- **Product Analysis:** Identified top revenue-generating product codes and descriptions.
+- **Monthly Sales Trend:** Analysed revenue patterns over time using invoice dates.
+
+## Business Insights
+
+- The United Kingdom is the primary revenue contributor in this dataset.
+- Revenue is concentrated in a small number of leading countries.
+- Product-level analysis helps identify high-revenue items for further investigation.
+
+*Note: Revenue represents sales value, not profit. Findings are based on the cleaned dataset and its filtering rules.*
 Revenue represents the sum of transaction sales values after the project's cleaning steps; it is not profit.
 
 ## Dashboard
