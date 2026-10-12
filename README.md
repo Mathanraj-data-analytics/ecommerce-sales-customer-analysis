@@ -52,6 +52,7 @@ Data Analyst Project/
 Revenue represents the sum of transaction sales values after the project's cleaning steps; it is not profit.
 
 ## Dashboard
+![Power BI Dashboard Preview](dashboard_preview.png)
 
 The Power BI dashboard includes KPI cards for total revenue, total invoices, and unique customers, along with monthly sales trends, country-wise revenue, product revenue, and a date slicer.
 
